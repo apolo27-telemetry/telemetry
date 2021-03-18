@@ -1,1 +1,1 @@
-# telemetry.github.io
+# telemetry
